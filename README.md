@@ -13,3 +13,11 @@ Jimin Kim, SeonGyu Jang, Hyungu Kahng
 Jimin Kim, Hyungu Kahng
 한국데이터마이닝학회(KDMS) 추계학술대회, 2024.11
 [Poster PDF](posters/2024-KDMS-SoftLabels-poster.pdf)
+
+## Conference Presentations
+
+### e-Poster (EP 8-6), KOSMI 2026 Fall Conference
+**"Evaluating Clinical Information Preservation Across Documentation Styles in Korean-English Code-Switched ICU Speech Recognition"**
+Jimin Kim
+대한의료정보학회(KOSMI) 추계학술대회, 2026.11
+[Poster PDF](posters/2026-KOSMI-ICU-ASR-CCER-poster.pdf) · [Code](https://github.com/jimin-the-ackerman/korean-icu-ccer-pilot)
